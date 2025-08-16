@@ -16,9 +16,7 @@ import os
 
 DEBUG = False 
 # API Keys
-PERPLEXITY_API_KEY = "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"
-ALPHA_VANTAGE_API = "GAS2E1XOWK9BM6AI"
-NEWS_API_KEY = "pub_145a5d2cadd346e0a6677e056c01f090"
+
 
 PERPLEXITY_API_URL = "https://api.perplexity.ai/chat/completions"
 
